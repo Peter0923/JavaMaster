@@ -8,13 +8,12 @@
         http://activemq.apache.org/schema/core http://activemq.apache.org/schema/core/activemq-core.xsd http://www.springframework.org/schema/jms http://www.springframework.org/schema/jms/spring-jms-3.0.xsd"
 	default-autowire="byName">
 
+	<!-- scan and instantiate beans automatically -->
 	<context:component-scan base-package="com.autodesk.zen" />
+
 	<!-- <context:property-placeholder location="file:///${user.home}/spring-minimum.properties" 
 		/> -->
 
-	<bean id="boy" class="com.autodesk.zen.Playboy">
-		<!-- <property name="hero" ref="hero" /> -->
-	</bean>
 	<bean id="hero" class="com.autodesk.zen.Hero">
 		<property name="name" value="Peter" />
 		<property name="desc" value="Peter takes zen to life" />
