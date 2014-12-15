@@ -1,12 +1,12 @@
 JavaMaster
 ==========
 
-Everything about Java
+**Everything about Java**
 
-Environment:
+### Environment:
 JDK7
 Maven 3.0.5
 Spring 3.0.5.RELEASE
 
-Projects:
-spring-rest   a minimum sample of Spring Framework
+### Projects:
+**spring-rest**   a minimum sample of Spring Framework
