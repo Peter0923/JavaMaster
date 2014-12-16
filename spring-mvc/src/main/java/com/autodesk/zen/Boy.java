@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 @Component
 @Path("/rest")
 @Scope("request")
-public class Playboy {
+public class Boy {
 	private Hero hero;
 
 	public void setHero(final Hero hero) {
