@@ -1,7 +1,7 @@
 JavaMaster
 ==========
 
-**Everything about Java**
+Everything about Java
 
 ### Environment:
 - JDK7
@@ -9,6 +9,6 @@ JavaMaster
 - Spring 3.0.5.RELEASE
 
 ### Projects:
-**spring-rest**  a minimum sample of Spring Framework
-**spring-mvc**  a sample of Spring Web MVC
-**spring-mvc-db**  a sample of Spring Web MVC using MongoDB 
+**spring-rest**  a minimum sample of Spring Framework  
+**spring-mvc**  a sample of Spring Web MVC  
+**spring-mvc-db**  a sample of Spring Web MVC using MongoDB  
