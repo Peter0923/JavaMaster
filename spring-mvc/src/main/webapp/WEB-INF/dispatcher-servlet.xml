@@ -14,5 +14,5 @@
     </bean>
 
     <!-- Controllers -->
-    <bean name="starController" class="com.autodesk.zen.mvc.Star" />
+    <bean name="starController" class="com.autodesk.zen.controller.Star" />
 </beans>
